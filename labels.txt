@@ -1,0 +1,23 @@
+0 Tomatoes
+1 Bean
+2 Carrot
+3 Cauliflower
+4 Cucumber
+5 Potato
+6 Radish
+7 Cabbage
+8 Broccoli
+9 Bell Pepper
+10 Beetroot
+11 Chilli pepper
+12 Corn
+13 Egg Plant
+14 Garlic
+15 Ginger
+16 Lettuce
+17 Okra
+18 Mushroom
+19 Onion
+20 Rice
+21 Chicken
+22 Egg

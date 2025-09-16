@@ -1,0 +1,178 @@
+, 
+                
+                
+                {
+                    'id': 36,
+                    'title': 'Bitterleaf Soup (Ofe Onugbu)',
+                    'ingredients': [
+                        'Bitterleaf (washed and squeezed to reduce bitterness)',
+                        'Palm fruit extract or palm oil',
+                        'Meat (assorted cuts)',
+                        'Stockfish or dry fish (optional)',
+                        'Cocoyam paste (for thickening)',
+                        'Ground crayfish',
+                        'Onions',
+                        'Pepper',
+                        'Seasoning cubes',
+                        'Salt'
+                    ],
+                    'directions': [
+                        '1. Boil assorted meat with onion, seasoning cubes, and salt until tender.',
+                        '2. In a separate pot, mash cocoyam paste with water to form a smooth slurry.',
+                        '3. Pour the cocoyam slurry into the meat stock and stir until it thickens.',
+                        '4. Add the squeezed bitterleaf and crayfish to the soup; mix well.',
+                        '5. If using, add palm fruit extract or palm oil for richer flavor.',
+                        '6. Simmer for a few minutes to let flavors combine.',
+                        '7. Serve hot with fufu, pounded yam, or semo.'
+                    ],
+                    'rating': 4.7,
+                    'time': '60 min',
+                    'category': 'Soup',
+                    'image': 'https://pictures-ghana.jijistatic.net/48401254_NjIwLTYyMC1jNDI1YjRmYjQ2LTE.webp',
+                    'videoUrl': 'https://www.youtube.com/watch?v=Hvtg6ZPlMHk',
+                    'country': 'Nigeria'
+                },
+                {
+                    'id': 37,
+                    'title': 'Ofe Nsala (White Soup)',
+                    'ingredients': [
+                        'Catfish or preferred meat',
+                        'Yam (small cubes for thickening)',
+                        'Utazi leaves (optional, for flavor)',
+                        'Ground crayfish',
+                        'Seasoning cubes',
+                        'Salt',
+                        'Water',
+                        'Ogiri or iru (local seasoning, optional)',
+                        'Ground uziza seeds or fresh uziza leaves (optional)'
+                    ],
+                    'directions': [
+                        '1. Season and boil catfish or meat with water, salt, and seasoning cubes until almost cooked.',
+                        '2. Add the yam cubes and continue cooking until the yam softens.',
+                        '3. Remove a few yam cubes, pound or blend into a smooth paste, and return to the pot to thicken the soup.',
+                        '4. Mix in ground crayfish and optional ogiri or iru; simmer briefly.',
+                        '5. Add utazi leaves or ground uziza for aroma; adjust salt, then simmer for another minute.',
+                        '6. Serve piping hot, traditionally with fufu or semolina.'
+                    ],
+                    'rating': 4.7,
+                    'time': '60 min',
+                    'category': 'Soup',
+                    'image': 'https://i.ytimg.com/vi/tIjwSMTkRzI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC1jlc-wCG8uieQTi75xboEKMPe7Q',
+                    'videoUrl': 'https://www.youtube.com/watch?v=FXI1dAdwl-8',
+                    'country': 'Nigeria'
+                },
+                {
+                    'id': 38,
+                    'title': 'Ogbono Soup',
+                    'ingredients': [
+                        'Ground ogbono seeds',
+                        'Palm oil',
+                        'Assorted meat (beef, tripe, goat, or fish)',
+                        'Stock cubes',
+                        'Crayfish (ground)',
+                        'Bitter leaf or ugu (fluted pumpkin leaves)',
+                        'Seasoning (salt, pepper)',
+                        'Onion',
+                        'Water'
+                    ],
+                    'directions': [
+                        '1. Boil assorted meat with onion, salt, and stock cubes until tender.',
+                        '2. Add palm oil and ground ogbono to the pot, stirring to dissolve and prevent lumps.',
+                        '3. Stir continuously until the soup becomes viscous (‘draws’).',
+                        '4. Add ground crayfish and adjust seasoning to taste.',
+                        '5. Add chopped bitter leaf or ugu towards the end and cook briefly.',
+                        '6. Serve hot with fufu, eba, semolina, or pounded yam.'
+                    ],
+                    'rating': 4.8,
+                    'time': '60 min',
+                    'category': 'Soup',
+                    'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkZV1xVu2-eILGW05qL4HwEPXTX92gyGX32Q&s',
+                    'videoUrl': 'https://www.youtube.com/watch?v=PH-G3ukBbAc',
+                    'country': 'Nigeria'
+                },
+                {
+                    'id': 39,
+                    'title': 'Moi Moi (Steamed Bean Pudding)',
+                    'ingredients': [
+                        'Black-eyed peas (peeled)',
+                        'Red bell peppers',
+                        'Onion',
+                        'Scotch bonnet peppers',
+                        'Palm oil or vegetable oil',
+                        'Seasoning cubes',
+                        'Salt',
+                        'Water',
+                        'Optional: boiled eggs, fish, or corned beef (for filling)'
+                    ],
+                    'directions': [
+                        '1. Soak and peel black-eyed peas, then rinse thoroughly.',
+                        '2. Blend beans with peppers, onion, and water into a smooth batter.',
+                        '3. Pour batter into a bowl, add oil, seasoning cubes, and salt; stir until well mixed.',
+                        '4. Optionally, add fillings like boiled eggs, fish, or corned beef.',
+                        '5. Pour mixture into moi moi leaves, ramekins, or foil containers.',
+                        '6. Steam in a pot with water at the bottom until set and firm (about 45–60 minutes).',
+                        '7. Allow to cool slightly before serving.'
+                    ],
+                    'rating': 4.9,
+                    'time': '75 min',
+                    'category': 'Main/Side Dish',
+                    'image': 'https://i.pinimg.com/736x/99/e0/fb/99e0fb1068b452a4eea8fa33e8d9bbdf.jpg',
+                    'videoUrl': 'https://www.youtube.com/watch?v=7lOH8iJlVQE',
+                    'country': 'Nigeria'
+                },
+                {
+                   
+                'id': 9,
+                'title': 'Fufu & Light Soup',
+                'ingredients': [
+                    'Plantain',
+                    'Cassava',
+                    'Chicken or goat meat',
+                    'Tomatoes',
+                    'Onion',
+                    'Ginger',
+                    'Garlic',
+                    'Pepper',
+                    'Salt'
+                ],
+                'directions': [
+                    'Boil plantain and cassava, pound into fufu.',
+                    'Cook meat with ginger, garlic, onion and salt.',
+                    'Blend tomatoes, onion, pepper; add to stock.',
+                    'Simmer into light soup and serve with fufu.'
+                ],
+                'rating': 4.9,
+                'time': '90 min',
+                'category': 'Dinner',
+                'image': 'https://www.shutterstock.com/image-photo/fufu-delicious-light-soup-palmnut-260nw-2182435305.jpg',
+                'videoUrl': 'https://www.youtube.com/watch?v=KHh2wSGF0Ew',
+                'country': 'Ghana'
+ 
+                },
+                {
+                    'id': 10,
+                    'title': 'Shito (Black Pepper Sauce)',
+                    'ingredients': [
+                        'Dried fish powder',
+                        'Shrimp powder',
+                        'Onions',
+                        'Garlic',
+                        'Ginger',
+                        'Tomato paste',
+                        'Chili powder',
+                        'Salt',
+                        'Vegetable oil'
+                    ],
+                    'directions': [
+                        'Blend onion, garlic, ginger into paste.',
+                        'Fry in oil until fragrant.',
+                        'Add tomato paste, chili, fish powder and shrimp powder.',
+                        'Simmer until dark and aromatic.'
+                    ],
+                    'rating': 4.8,
+                    'time': '60 min',
+                    'category': 'Condiment',
+                    'image': 'https://assets.epicurious.com/photos/5f6a47998e6fb6a5bb1bcaa4/1:1/w_2560%2Cc_limit/Shito_RECIPE_091620_11803.jpg',
+                    'videoUrl': 'https://www.youtube.com/watch?v=Sg3yDOOn5H0',
+                    'country': 'Ghana'
+                }
